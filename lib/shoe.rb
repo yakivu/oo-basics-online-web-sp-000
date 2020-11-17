@@ -43,6 +43,6 @@ end
 
 end 
 
-shoe.cobble
+shoe.condition= "new"
 
 
