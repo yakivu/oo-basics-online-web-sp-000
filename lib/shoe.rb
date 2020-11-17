@@ -45,4 +45,4 @@ end
 
 
 
-shoe.condition = "new"
+
