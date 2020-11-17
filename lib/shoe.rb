@@ -42,7 +42,7 @@ end
 
 
 end 
-shoe = Shoe.new("Your shoe is as good as new!")
+shoe = Shoe.new
 
 shoe.cobble
 
