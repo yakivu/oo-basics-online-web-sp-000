@@ -42,9 +42,7 @@ end
 
 
 end 
-
-
-condiiton = Shoe.new("new")
+shoe = Shoe.new("new")
 shoe.cobble 
 
 
