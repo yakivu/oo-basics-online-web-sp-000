@@ -42,7 +42,7 @@ end
 
 
 end 
-shoe = Shoe.condition("new")
+shoe = Shoe.new("new")
 
 shoe.cobble
 
