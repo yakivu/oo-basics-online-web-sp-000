@@ -42,9 +42,9 @@ end
 
 
 end 
-shoe = Shoe.new("new")
-
-
+shoe = Shoe.new
+shoe.condition = "new"
+puts shoe.condition
 shoe.cobble
 
 
