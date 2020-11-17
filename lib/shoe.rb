@@ -42,8 +42,8 @@ end
 
 
 end 
-shoe = Shoe.new("new")
-shoe.condition = "new" 
+shoe = Shoe.new("Your shoe is as good as new!")
+
 shoe.cobble
 
 
