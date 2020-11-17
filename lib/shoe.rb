@@ -42,7 +42,7 @@ end
 
 
 end 
-shoe = Shoe.new(lskjdf)
+shoe = Shoe.new("lelskjdf")
 
 shoe.cobble
 
