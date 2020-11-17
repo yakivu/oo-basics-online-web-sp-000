@@ -43,6 +43,6 @@ end
 
 end 
 
-
+shoe.condition = "new"
 
 
