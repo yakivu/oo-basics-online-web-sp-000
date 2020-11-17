@@ -44,3 +44,5 @@ end
 end 
 
 
+shoe = Shoe.new("new")
+shoe.condition
